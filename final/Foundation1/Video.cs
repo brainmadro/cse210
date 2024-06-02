@@ -1,5 +1,3 @@
-using System.ComponentModel.DataAnnotations;
-
 class Video
 {
 	private string _author;
